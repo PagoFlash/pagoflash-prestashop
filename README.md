@@ -29,4 +29,4 @@ El área de configuración del plugin se muestra una vez que le das click a inst
   - Callback URL: Solo lectura. El contenido de este campo debe ser copiado y pegado en el campo "URL callback" del formulario de registro del punto de venta virtual en PagoFlash.
   
 
-¡Listo! Ya tus clientes podrán pagar sus productos a través de PagoFlash.
+**¡Listo! Ya tus clientes podrán pagar sus productos a través de PagoFlash.**
