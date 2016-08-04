@@ -6,7 +6,7 @@
 Requerimientos
 --------------
 - PHP 5.4 o superior
-- Prestashop 1.5 o superior
+- Prestashop 1.6 o superior
 
 Instalación
 ------------
